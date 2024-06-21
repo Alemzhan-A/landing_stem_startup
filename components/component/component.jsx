@@ -68,7 +68,7 @@ export function Component() {
                 </div>
               </div>
               <img
-                src="https://art-u3.infcdn.net/articles_uploads/2/2910/Steam2.png"
+                src="https://cdn-icons-png.flaticon.com/512/6607/6607667.png"
                 width="550"
                 height="550"
                 alt="Hero"
@@ -158,7 +158,7 @@ export function Component() {
                   Revolutionizing the Steam Trading Landscape
                 </h2>
                 <p className="max-w-[900px] text-teal-700 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  At Steam Trading, our mission is to empower users with a secure, efficient, and user-friendly platform for their Steam trading needs. We're a team of passionate gamers and tech enthusiasts committed to transforming the way you approach Steam trading.
+                  At Steam Trading, our mission is to empower users with a secure, efficient, and user-friendly platform for their Steam trading needs. We are a team of passionate gamers and tech enthusiasts committed to transforming the way you approach Steam trading.
                 </p>
               </div>
             </div>
